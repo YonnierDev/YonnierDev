@@ -1,6 +1,10 @@
 # 👋 Hola, soy Yonnier Leon  
 ### Desarrollador Full Stack | Backend | IA | Soporte Técnico  
 
+🌐 **Portafolio:** https://yonnier-dev.vercel.app  
+🐙 **GitHub:** https://github.com/YonnierDev  
+📩 **Correo:** yonnierleon@gmail.com  
+
 Desde Colombia, desarrollo soluciones que generan impacto real.  
 Creo en la tecnología que potencia lo humano, no que lo reemplaza. 🚀  
 
